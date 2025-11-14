@@ -1,0 +1,23 @@
+# Core dependencies for Jupyter Notebook to Web App Converter
+nbformat>=5.0.0
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.17.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Testing dependencies
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-mock>=3.11.0
+
+# Code analysis
+ast-comments>=1.1.2
+
+# Report generation
+reportlab>=4.0.0
+weasyprint>=60.0
+
+# Security and sandboxing
+RestrictedPython>=6.2
